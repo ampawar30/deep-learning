@@ -1,0 +1,2 @@
+sudo pip install jupyter
+sudo pip install jupytext nbrmd nbsrc
